@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "cn_xueqiu",
+    "source_name": "雪球",
+    "region": "CN",
+    "category": "forum",
+    "tier": "B",
+    "mode": "hybrid",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:xueqiu.com A股 板块 热门 讨论: <urlopen error timed out>; site:xueqiu.com ETF 热门 讨论 A股: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_guba",
+    "source_name": "东方财富股吧",
+    "region": "CN",
+    "category": "forum",
+    "tier": "B",
+    "mode": "hybrid",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:eastmoney.com 股吧 A股 热门 板块: <urlopen error timed out>; site:eastmoney.com 股吧 ETF 热门 讨论: <urlopen error timed out>"
+  }
+]

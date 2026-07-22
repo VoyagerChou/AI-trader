@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "cn_sse",
+    "source_name": "上海证券交易所",
+    "region": "CN",
+    "category": "exchange",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:sse.com.cn 上交所 最新 公告 ETF 规则: <urlopen error timed out>; site:sse.com.cn 上交所 信息披露 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_szse",
+    "source_name": "深圳证券交易所",
+    "region": "CN",
+    "category": "exchange",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:szse.cn 深交所 最新 公告 ETF 规则: <urlopen error timed out>; site:szse.cn 深交所 信息披露 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_cninfo",
+    "source_name": "巨潮资讯",
+    "region": "CN",
+    "category": "disclosure",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:cninfo.com.cn 巨潮资讯 最新 公告 A股: <urlopen error timed out>; site:cninfo.com.cn 基金 公告 最新: <urlopen error timed out>"
+  }
+]

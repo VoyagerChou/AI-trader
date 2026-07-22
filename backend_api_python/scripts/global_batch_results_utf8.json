@@ -1,0 +1,121 @@
+[
+  {
+    "source_id": "global_fred",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "Consumer Price Indexes (CPI and PCE) | FRED | St. Louis Fed",
+      "Federal Reserve Economic Data | FRED | St. Louis Fed",
+      "Consumer Price Index for All Urban Consumers: All Items in U.S. ..."
+    ],
+    "urls": [
+      "https://fred.stlouisfed.org/categories/9",
+      "https://fred.stlouisfed.org",
+      "https://fred.stlouisfed.org/series/CPIAUCSL"
+    ]
+  },
+  {
+    "source_id": "global_fed",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "The Fed - June 16-17, 2026 FOMC Meeting",
+      "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "Federal Reserve Board - Federal Reserve issues FOMC statement"
+    ],
+    "urls": [
+      "https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260617.htm",
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+    ]
+  },
+  {
+    "source_id": "global_bls",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "Schedule of Releases for the Consumer Price Index",
+      "Consumer Price Index Summary - 2026 M05 Results",
+      "CPI Home : U.S. Bureau of Labor Statistics"
+    ],
+    "urls": [
+      "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "https://www.bls.gov/cpi"
+    ]
+  },
+  {
+    "source_id": "global_bea",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "Releases | U.S. Bureau of Economic Analysis (BEA)",
+      "GDP (Second Estimate) and Corporate Profits, 1st Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+      "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)"
+    ],
+    "urls": [
+      "https://www.bea.gov/news/current-releases",
+      "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-1st-quarter-2026",
+      "https://www.bea.gov/data/gdp/gross-domestic-product"
+    ]
+  },
+  {
+    "source_id": "global_eia",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "U.S. commercial crude oil inventories have decreased in June - EIA",
+      "[PDF] Weekly Petroleum Status Report",
+      "Weekly Petroleum Status Report - U.S. Energy Information ... - EIA"
+    ],
+    "urls": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67805",
+      "https://ir.eia.gov/wpsr/wpsrsummary.pdf",
+      "https://www.eia.gov/petroleum/supply/weekly"
+    ]
+  },
+  {
+    "source_id": "global_reuters",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "Chip stocks shed over $500 billion in value on China trade fears",
+      "Wall St Week Ahead Wall Street zeroes in on semiconductors after ...",
+      "S&P 500 forecast to end year slightly higher even as war drags on"
+    ],
+    "urls": [
+      "https://www.reuters.com/markets/us/chip-stocks-tumble-fears-tighter-us-curbs-sales-china-2024-07-17",
+      "https://www.reuters.com/markets/us/wall-st-week-ahead-wall-street-zeroes-semiconductors-after-turbulent-week-2024-10-18",
+      "https://www.reuters.com/markets/us/sp-500-forecast-end-year-slightly-higher-even-war-drags-2026-05-27"
+    ]
+  },
+  {
+    "source_id": "global_wallstreetcn",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "今夜美联储料按兵不动，滞胀警报拉响，鲍威尔如何施展“平衡术”？",
+      "鲍威尔：购债规模未来几个月或维持较高水平，就业市场逐步降温但慢于预期，目前利率下能耐心等待（附全文）",
+      "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图"
+    ],
+    "urls": [
+      "https://wallstreetcn.com/articles/3767809",
+      "https://wallstreetcn.com/articles/3761134",
+      "https://wallstreetcn.com/articles/3774941"
+    ]
+  }
+]

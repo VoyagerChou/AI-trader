@@ -1,0 +1,155 @@
+[
+  {
+    "source_id": "cn_cls",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "援引专家：出色的疫情防控能力与成绩是经济复苏和股市上涨最大动能",
+      "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+      "并购重组"
+    ],
+    "urls": [
+      "https://m.cls.cn/detail/529561",
+      "https://www.cls.cn/detail/2389049",
+      "https://www.cls.cn/subject/11826"
+    ]
+  },
+  {
+    "source_id": "cn_stcn",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "A股最新！半日成交破2万亿元！一大板块批量创历史新高",
+      "A股板块分化明显，资金抱团硬科技，机构：警惕追高风险",
+      "A股板块轮动明显机构：关注主线扩散机遇 - 证券时报"
+    ],
+    "urls": [
+      "https://www.stcn.com/article/detail/3583090.html",
+      "https://www.stcn.com/article/detail/3926479.html",
+      "https://www.stcn.com/article/detail/3930896.html"
+    ]
+  },
+  {
+    "source_id": "cn_cs",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "板块持续轮动 短期A股震荡行情或延续_中证网",
+      "今天，A股大涨，保险、券商板块爆发",
+      "长线资金最新重仓股曝光 机构认为A股市场调整就是机会"
+    ],
+    "urls": [
+      "https://www.cs.com.cn/gppd/gsyj/202511/t20251121_6524417.html",
+      "https://jnzstatic.cs.com.cn/zzb/htmlInfo/125676.html",
+      "https://www.cs.com.cn/gppd/gsyj/2026/03/31/detail_2026033110000682.html"
+    ]
+  },
+  {
+    "source_id": "cn_cnstock",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "A股板块轮动明显 机构：关注主线扩散机遇|上海证券报",
+      "A股放量！巨头业绩引爆板块行情-上海证券报·中国证券网",
+      "AI硬件板块集体爆发 创业板指大涨5.30%-上海证券报·中国证券网"
+    ],
+    "urls": [
+      "https://paper.cnstock.com/html/2026-05/28/content_2222987.htm",
+      "https://www.cnstock.com/commonDetail/734015",
+      "https://www.cnstock.com/commonDetail/729950"
+    ]
+  },
+  {
+    "source_id": "cn_wallstreetcn",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "同是科技，A股、港股不同命？ - 华尔街见闻",
+      "创业板狂飙近6%，科技股全线爆发，人民币创三年新高，恒科指暴涨逾5%，油气股集体下挫",
+      "“上车科技”还是“坚守老登”？A股风格或迎阶段性均衡，中报季成关键试金石"
+    ],
+    "urls": [
+      "https://wallstreetcn.com/articles/3773003",
+      "https://wallstreetcn.com/articles/3769451",
+      "https://wallstreetcn.com/articles/3775017"
+    ]
+  },
+  {
+    "source_id": "cn_eastmoney_news",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "板块分析 - 股票- 东方财富",
+      "股票频道- 东方财富网",
+      "东方财富网：财经门户，提供专业的财经、股票、行情、证券、基金 ..."
+    ],
+    "urls": [
+      "https://stock.eastmoney.com/xuexiao/xx523.html",
+      "https://stock.eastmoney.com",
+      "https://www.eastmoney.com/default.html"
+    ]
+  },
+  {
+    "source_id": "cn_fund_company",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "重要公告－最新ETF與基金配息、交易、追募公告｜國泰投信",
+      "公告消息 - ETF公告消息 | 元大投信 YuantaETFs",
+      "重大消息 - 臺灣證券交易所｜ETF e添富"
+    ],
+    "urls": [
+      "https://www.cathaysite.com.tw/announcement?AnnouncementType=1",
+      "https://www.yuantaetfs.com/News",
+      "https://www.twse.com.tw/zh/ETFortune/announcementList"
+    ]
+  },
+  {
+    "source_id": "cn_xueqiu",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "2026年A股行情及热门板块分析（含股票） 站在2026年初这个时间点，中国A股市场正处于从“估值修复”向“盈利驱动”转型的关键期。随着“十五五”规划（2026-2... - 雪球",
+      "讨论详情- 雪球",
+      "讨论详情- 雪球"
+    ],
+    "urls": [
+      "https://xueqiu.com/7618647764/371832068",
+      "https://xueqiu.com/1739536984/346525186/372599512",
+      "https://xueqiu.com/1739536984/344068896/370514014"
+    ]
+  },
+  {
+    "source_id": "cn_guba",
+    "provider": "Tavily",
+    "success": true,
+    "count": 3,
+    "error": null,
+    "titles": [
+      "东方财富网旗下股票社区 - 股吧",
+      "股吧_东方财富网旗下股票社区_东方财富网股吧",
+      "东方财富网：财经门户，提供专业的财经、股票、行情、证券、基金 ..."
+    ],
+    "urls": [
+      "http://mguba.eastmoney.com/mguba",
+      "https://guba.eastmoney.com",
+      "https://www.eastmoney.com/default.html"
+    ]
+  }
+]

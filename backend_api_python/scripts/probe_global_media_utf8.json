@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "global_reuters",
+    "source_name": "Reuters Markets",
+    "region": "GLOBAL",
+    "category": "media",
+    "tier": "A",
+    "mode": "search",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:reuters.com/markets semiconductors latest markets: <urlopen error timed out>; site:reuters.com/markets fed inflation markets latest: <urlopen error timed out>"
+  },
+  {
+    "source_id": "global_wallstreetcn",
+    "source_name": "华尔街见闻（海外补充视角）",
+    "region": "GLOBAL",
+    "category": "media",
+    "tier": "B",
+    "mode": "search",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:wallstreetcn.com 美联储 通胀 最新: <urlopen error timed out>; site:wallstreetcn.com 半导体 AI 最新: <urlopen error timed out>"
+  }
+]

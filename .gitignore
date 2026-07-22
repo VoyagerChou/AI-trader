@@ -1,0 +1,94 @@
+﻿# ============================================
+# AI-Trader - Open Source Repository
+# ============================================
+
+# ========================
+# Frontend
+# ========================
+# Frontend source lives in the private AI-Trader-Vue repo. The published
+# `ghcr.io/<owner>/ai-trader-frontend` image is consumed via docker-compose
+# by default. For local source iteration, clone AI-Trader-Vue into the
+# `/AI-Trader-Vue/` slot below and run `docker compose up --build`; that
+# path is referenced by docker-compose.yml's frontend `build.context`
+# directive. Nothing under these paths should ever be committed here.
+/ai-trader_vue/
+/AI-Trader-Vue-src/
+/AI-Trader-Vue/
+/frontend/
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+backend_api_python/.env
+
+# ========================
+# IDE & OS
+# ========================
+.idea/
+.vscode/
+agent-tools/
+.cache/
+.codex/
+.codex-logs/
+.agents/
+.local_tools/
+outputs/
+.pytest_cache/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.iml
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+/dist/
+build/
+*.egg
+.eggs/
+venv/
+.venv/
+env/
+
+# ========================
+# Node (if any remain)
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ========================
+# Logs & Runtime Data
+# ========================
+*.log
+pytest_out.txt
+*_out.txt
+_tmp_*.txt
+_i18n_*.txt
+backend_api_python/logs/
+backend_api_python/dist/
+
+# MCP server build artifacts (PyPI release output, never committed)
+mcp_server/dist/
+mcp_server/build/
+mcp_server/.smoketest/
+mcp_server/src/ai-trader_mcp.egg-info/
+backend_api_python/data/ai-trader.db
+backend_api_python/data/memory/
+
+# ========================
+# Docker
+# ========================
+docker-compose.override.yml

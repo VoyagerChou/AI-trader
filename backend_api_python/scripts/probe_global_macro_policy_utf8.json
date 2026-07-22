@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "global_fed",
+    "source_name": "Federal Reserve",
+    "region": "GLOBAL",
+    "category": "macro_policy",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:federalreserve.gov FOMC latest statement: <urlopen error timed out>; site:federalreserve.gov federal reserve latest policy: <urlopen error timed out>"
+  }
+]

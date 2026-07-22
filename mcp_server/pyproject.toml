@@ -1,0 +1,70 @@
+﻿[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-trader-mcp"
+version = "0.2.0"
+description = "Model Context Protocol (MCP) server for the AI-Trader Agent Gateway — market data, indicator workspace, strategies, backtests, and experiments for AI agents (Cursor, Claude Code, Codex, OpenClaw, NanoBot, ...)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [
+  { name = "AI-Trader", email = "ai-trader@gmail.com" }
+]
+keywords = [
+  "mcp",
+  "model-context-protocol",
+  "ai-trader",
+  "ai-agent",
+  "trading",
+  "backtest",
+  "quant",
+  "cursor",
+  "claude",
+  "codex",
+  "openclaw",
+  "nanobot"
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Financial and Insurance Industry",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Office/Business :: Financial :: Investment",
+  "Topic :: Software Development :: Libraries :: Python Modules"
+]
+dependencies = [
+  "mcp>=1.2.0",
+  "httpx>=0.27.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7",
+  "build>=1.0",
+  "twine>=4"
+]
+
+[project.urls]
+Homepage      = "https://github.com/brokermr810/AI-Trader"
+Documentation = "https://github.com/brokermr810/AI-Trader/blob/main/docs/agent/AGENT_QUICKSTART.md"
+Repository    = "https://github.com/brokermr810/AI-Trader"
+Issues        = "https://github.com/brokermr810/AI-Trader/issues"
+Changelog     = "https://github.com/brokermr810/AI-Trader/blob/main/docs/CHANGELOG.md"
+
+[project.scripts]
+ai-trader-mcp = "ai-trader_mcp.server:main"
+
+[tool.setuptools]
+include-package-data = true
+license-files = ["LICENSE"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

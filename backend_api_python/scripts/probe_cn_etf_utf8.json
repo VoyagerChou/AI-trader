@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "cn_sse_etf",
+    "source_name": "上交所 ETF 专栏",
+    "region": "CN",
+    "category": "etf_notice",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:etf.sse.com.cn ETF 公告 最新: <urlopen error timed out>; site:etf.sse.com.cn 基金 公告 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_fund_company",
+    "source_name": "基金公司官网公告",
+    "region": "CN",
+    "category": "etf_notice",
+    "tier": "A",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "ETF 基金公司 公告 最新: <urlopen error timed out>; 基金 管理人 ETF 公告 最新: <urlopen error timed out>"
+  }
+]

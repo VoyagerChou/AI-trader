@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "cn_csrc",
+    "source_name": "中国证监会",
+    "region": "CN",
+    "category": "policy",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:csrc.gov.cn 证监会 最新 通知 A股: <urlopen error timed out>; site:csrc.gov.cn 基金 信息披露 办法 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_ndrc",
+    "source_name": "国家发展改革委",
+    "region": "CN",
+    "category": "policy",
+    "tier": "A",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:ndrc.gov.cn 产业 政策 最新: <urlopen error timed out>; site:ndrc.gov.cn 能源 科技 制造 政策 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_miit",
+    "source_name": "工业和信息化部",
+    "region": "CN",
+    "category": "policy",
+    "tier": "A",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:miit.gov.cn 半导体 算力 通信 政策 最新: <urlopen error timed out>; site:miit.gov.cn 产业 政策 最新: <urlopen error timed out>"
+  },
+  {
+    "source_id": "cn_nea",
+    "source_name": "国家能源局",
+    "region": "CN",
+    "category": "policy",
+    "tier": "A",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:nea.gov.cn 电力 储能 光伏 风电 政策 最新: <urlopen error timed out>; site:nea.gov.cn 能源 政策 最新: <urlopen error timed out>"
+  }
+]

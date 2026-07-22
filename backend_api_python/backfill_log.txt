@@ -1,0 +1,117 @@
+[1/117] 2026-01-05: OK sectors=29 etfs=38 (101s) | ETA: 195min
+[2/117] 2026-01-06: OK sectors=29 etfs=38 (95s) | ETA: 188min
+[3/117] 2026-01-07: OK sectors=29 etfs=38 (95s) | ETA: 184min
+[4/117] 2026-01-08: OK sectors=29 etfs=38 (94s) | ETA: 181min
+[5/117] 2026-01-09: OK sectors=29 etfs=38 (99s) | ETA: 181min
+[6/117] 2026-01-12: OK sectors=29 etfs=38 (98s) | ETA: 179min
+[7/117] 2026-01-13: OK sectors=29 etfs=38 (99s) | ETA: 178min
+[8/117] 2026-01-14: OK sectors=29 etfs=38 (99s) | ETA: 177min
+[9/117] 2026-01-15: OK sectors=29 etfs=38 (95s) | ETA: 175min
+[10/117] 2026-01-16: OK sectors=29 etfs=38 (96s) | ETA: 173min
+[11/117] 2026-01-19: OK sectors=29 etfs=38 (99s) | ETA: 172min
+[12/117] 2026-01-20: OK sectors=29 etfs=38 (93s) | ETA: 170min
+[13/117] 2026-01-21: OK sectors=29 etfs=38 (101s) | ETA: 169min
+[14/117] 2026-01-22: OK sectors=29 etfs=38 (95s) | ETA: 167min
+[15/117] 2026-01-23: OK sectors=29 etfs=38 (102s) | ETA: 166min
+[16/117] 2026-01-26: OK sectors=29 etfs=38 (87s) | ETA: 163min
+[17/117] 2026-01-27: OK sectors=29 etfs=38 (86s) | ETA: 160min
+[18/117] 2026-01-28: OK sectors=29 etfs=38 (88s) | ETA: 158min
+[19/117] 2026-01-29: OK sectors=29 etfs=38 (89s) | ETA: 156min
+[20/117] 2026-01-30: OK sectors=29 etfs=38 (87s) | ETA: 153min
+[21/117] 2026-02-02: OK sectors=29 etfs=38 (90s) | ETA: 152min
+[22/117] 2026-02-03: OK sectors=29 etfs=38 (95s) | ETA: 150min
+[23/117] 2026-02-04: OK sectors=29 etfs=38 (98s) | ETA: 149min
+[24/117] 2026-02-05: OK sectors=29 etfs=38 (97s) | ETA: 147min
+[25/117] 2026-02-06: OK sectors=29 etfs=38 (96s) | ETA: 146min
+[26/117] 2026-02-09: OK sectors=29 etfs=38 (95s) | ETA: 144min
+[27/117] 2026-02-10: OK sectors=29 etfs=38 (96s) | ETA: 143min
+[28/117] 2026-02-11: OK sectors=29 etfs=38 (95s) | ETA: 141min
+[29/117] 2026-02-12: OK sectors=29 etfs=38 (97s) | ETA: 139min
+[30/117] 2026-02-13: OK sectors=29 etfs=38 (96s) | ETA: 138min
+[31/117] 2026-02-23: OK sectors=29 etfs=38 (98s) | ETA: 136min
+[32/117] 2026-02-24: OK sectors=29 etfs=38 (98s) | ETA: 135min
+[33/117] 2026-02-25: OK sectors=29 etfs=38 (97s) | ETA: 134min
+[34/117] 2026-02-26: OK sectors=29 etfs=38 (96s) | ETA: 132min
+[35/117] 2026-02-27: OK sectors=29 etfs=38 (93s) | ETA: 130min
+[36/117] 2026-03-02: OK sectors=29 etfs=38 (94s) | ETA: 129min
+[37/117] 2026-03-03: OK sectors=29 etfs=38 (88s) | ETA: 127min
+[38/117] 2026-03-04: OK sectors=29 etfs=38 (94s) | ETA: 125min
+[39/117] 2026-03-05: OK sectors=29 etfs=38 (96s) | ETA: 124min
+[40/117] 2026-03-06: OK sectors=29 etfs=38 (96s) | ETA: 122min
+[41/117] 2026-03-09: OK sectors=29 etfs=38 (94s) | ETA: 120min
+[42/117] 2026-03-10: OK sectors=29 etfs=38 (96s) | ETA: 119min
+[43/117] 2026-03-11: OK sectors=29 etfs=38 (97s) | ETA: 117min
+[44/117] 2026-03-12: OK sectors=29 etfs=38 (96s) | ETA: 116min
+[45/117] 2026-03-13: OK sectors=29 etfs=38 (95s) | ETA: 114min
+[46/117] 2026-03-16: OK sectors=29 etfs=38 (97s) | ETA: 113min
+[47/117] 2026-03-17: OK sectors=29 etfs=38 (91s) | ETA: 111min
+[48/117] 2026-03-18: OK sectors=29 etfs=38 (97s) | ETA: 109min
+[49/117] 2026-03-19: OK sectors=29 etfs=38 (96s) | ETA: 108min
+[50/117] 2026-03-20: OK sectors=29 etfs=38 (97s) | ETA: 106min
+[51/117] 2026-03-23: OK sectors=29 etfs=38 (99s) | ETA: 105min
+[52/117] 2026-03-24: OK sectors=29 etfs=38 (95s) | ETA: 103min
+[53/117] 2026-03-25: OK sectors=29 etfs=38 (98s) | ETA: 102min
+[54/117] 2026-03-26: OK sectors=29 etfs=38 (95s) | ETA: 100min
+[55/117] 2026-03-27: OK sectors=29 etfs=38 (94s) | ETA: 99min
+[56/117] 2026-03-30: OK sectors=29 etfs=38 (95s) | ETA: 97min
+[57/117] 2026-03-31: OK sectors=29 etfs=38 (89s) | ETA: 95min
+[58/117] 2026-04-01: OK sectors=29 etfs=38 (89s) | ETA: 94min
+[59/117] 2026-04-02: OK sectors=29 etfs=38 (92s) | ETA: 92min
+[60/117] 2026-04-03: OK sectors=29 etfs=38 (96s) | ETA: 90min
+[61/117] 2026-04-07: OK sectors=29 etfs=38 (97s) | ETA: 89min
+[62/117] 2026-04-08: OK sectors=29 etfs=38 (98s) | ETA: 87min
+[63/117] 2026-04-09: OK sectors=29 etfs=38 (95s) | ETA: 86min
+[64/117] 2026-04-10: OK sectors=29 etfs=38 (100s) | ETA: 84min
+[65/117] 2026-04-13: OK sectors=29 etfs=38 (97s) | ETA: 83min
+[66/117] 2026-04-14: OK sectors=29 etfs=38 (96s) | ETA: 81min
+[67/117] 2026-04-15: OK sectors=29 etfs=38 (99s) | ETA: 79min
+[68/117] 2026-04-16: OK sectors=29 etfs=38 (97s) | ETA: 78min
+[69/117] 2026-04-17: OK sectors=29 etfs=38 (95s) | ETA: 76min
+[70/117] 2026-04-20: OK sectors=29 etfs=38 (98s) | ETA: 75min
+[71/117] 2026-04-21: OK sectors=29 etfs=38 (98s) | ETA: 73min
+[72/117] 2026-04-22: OK sectors=29 etfs=38 (100s) | ETA: 72min
+[73/117] 2026-04-23: OK sectors=29 etfs=38 (95s) | ETA: 70min
+[74/117] 2026-04-24: OK sectors=29 etfs=38 (97s) | ETA: 68min
+[75/117] 2026-04-27: OK sectors=29 etfs=38 (97s) | ETA: 67min
+[1/42] 2026-04-28: OK s=29 e=38 (97s) ETA:67m
+[2/42] 2026-04-29: OK s=29 e=38 (97s) ETA:65m
+[3/42] 2026-04-30: OK s=29 e=38 (97s) ETA:63m
+[4/42] 2026-05-06: OK s=29 e=38 (97s) ETA:62m
+[5/42] 2026-05-07: OK s=29 e=38 (99s) ETA:60m
+[6/42] 2026-05-08: OK s=29 e=38 (98s) ETA:59m
+[7/42] 2026-05-11: OK s=29 e=38 (98s) ETA:57m
+[8/42] 2026-05-12: OK s=29 e=38 (93s) ETA:55m
+[9/42] 2026-05-13: OK s=29 e=38 (85s) ETA:53m
+[10/42] 2026-05-14: OK s=29 e=38 (83s) ETA:50m
+[11/42] 2026-05-15: OK s=29 e=38 (89s) ETA:49m
+[12/42] 2026-05-18: OK s=29 e=38 (88s) ETA:47m
+[13/42] 2026-05-19: OK s=29 e=38 (90s) ETA:45m
+[14/42] 2026-05-20: OK s=29 e=38 (87s) ETA:43m
+[15/42] 2026-05-21: OK s=29 e=38 (88s) ETA:42m
+[16/42] 2026-05-22: OK s=29 e=38 (85s) ETA:40m
+[17/42] 2026-05-25: OK s=29 e=38 (82s) ETA:38m
+[18/42] 2026-05-26: OK s=29 e=38 (87s) ETA:36m
+[19/42] 2026-05-27: OK s=29 e=38 (85s) ETA:35m
+[20/42] 2026-05-28: OK s=29 e=38 (88s) ETA:33m
+[21/42] 2026-05-29: OK s=29 e=38 (85s) ETA:32m
+[22/42] 2026-06-01: OK s=29 e=38 (86s) ETA:30m
+[23/42] 2026-06-02: OK s=29 e=38 (87s) ETA:28m
+[24/42] 2026-06-03: OK s=29 e=38 (84s) ETA:27m
+[25/42] 2026-06-04: OK s=29 e=38 (84s) ETA:25m
+[26/42] 2026-06-05: OK s=29 e=38 (84s) ETA:24m
+[27/42] 2026-06-08: OK s=29 e=38 (86s) ETA:22m
+[28/42] 2026-06-09: OK s=29 e=38 (84s) ETA:21m
+[29/42] 2026-06-10: OK s=29 e=38 (88s) ETA:19m
+[30/42] 2026-06-11: OK s=29 e=38 (85s) ETA:18m
+[31/42] 2026-06-12: OK s=29 e=38 (87s) ETA:16m
+[32/42] 2026-06-15: OK s=29 e=38 (84s) ETA:15m
+[33/42] 2026-06-16: OK s=29 e=38 (87s) ETA:13m
+[34/42] 2026-06-17: OK s=29 e=38 (89s) ETA:12m
+[35/42] 2026-06-18: OK s=29 e=38 (84s) ETA:10m
+[36/42] 2026-06-22: OK s=29 e=38 (86s) ETA:9m
+[37/42] 2026-06-23: OK s=29 e=38 (83s) ETA:7m
+[38/42] 2026-06-24: OK s=29 e=38 (86s) ETA:6m
+[39/42] 2026-06-25: OK s=29 e=38 (87s) ETA:4m
+[40/42] 2026-06-26: OK s=29 e=38 (85s) ETA:3m
+[41/42] 2026-06-29: OK s=29 e=38 (84s) ETA:1m
+[42/42] 2026-06-30: OK s=29 e=38 (86s) ETA:0m

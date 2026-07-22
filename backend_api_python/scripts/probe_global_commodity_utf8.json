@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "global_eia",
+    "source_name": "EIA",
+    "region": "GLOBAL",
+    "category": "commodity_data",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:eia.gov crude oil inventory latest: <urlopen error timed out>; site:eia.gov energy outlook latest: <urlopen error timed out>"
+  }
+]

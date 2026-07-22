@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "global_fred",
+    "source_name": "FRED",
+    "region": "GLOBAL",
+    "category": "macro_data",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:fred.stlouisfed.org FRED CPI rates latest: <urlopen error timed out>; site:fred.stlouisfed.org SOFR treasury yield latest: <urlopen error timed out>"
+  },
+  {
+    "source_id": "global_bls",
+    "source_name": "BLS",
+    "region": "GLOBAL",
+    "category": "macro_data",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:bls.gov CPI latest release: <urlopen error timed out>; site:bls.gov payroll employment latest release: <urlopen error timed out>"
+  },
+  {
+    "source_id": "global_bea",
+    "source_name": "BEA",
+    "region": "GLOBAL",
+    "category": "macro_data",
+    "tier": "S",
+    "mode": "direct",
+    "enabled": true,
+    "status": "error",
+    "recommendation": "no_result: 需要调整 query，或改为 direct ingestion。",
+    "matched_results": 0,
+    "total_results": 0,
+    "notes": "site:bea.gov GDP latest release: <urlopen error timed out>; site:bea.gov PCE latest release: <urlopen error timed out>"
+  }
+]

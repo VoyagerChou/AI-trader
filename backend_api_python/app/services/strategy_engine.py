@@ -76,6 +76,41 @@ def _load_etf_closes(etf_codes: List[str], lookback: int = 30) -> Dict[str, List
     return result
 
 
+# ── Triple Screen Strategy ──────────────────────────────────────
+
+def _compute_ema(series, period):
+    if len(series) < period: return [series[-1]] * len(series)
+    m = 2.0 / (period + 1)
+    ema = [sum(series[:period]) / period]
+    for p in series[period:]: ema.append((p - ema[-1]) * m + ema[-1])
+    return [ema[0]] * (period - 1) + ema
+
+def _compute_macd(closes):
+    ema12, ema26 = _compute_ema(closes, 12), _compute_ema(closes, 26)
+    macd_line = [e12 - e26 for e12, e26 in zip(ema12, ema26)]
+    signal = _compute_ema(macd_line, 9)
+    histogram = [m - s for m, s in zip(macd_line, signal)]
+    return {"macd": macd_line, "signal": signal, "histogram": histogram}
+
+def _compute_rsi(closes, period=14):
+    if len(closes) < period + 1: return [50.0] * len(closes)
+    deltas = [closes[i] - closes[i-1] for i in range(1, len(closes))]
+    gains = [max(d, 0) for d in deltas]; losses = [max(-d, 0) for d in deltas]
+    avg_g = sum(gains[:period]) / period; avg_l = sum(losses[:period]) / period
+    rsi = [0.0] * period
+    rsi.append(100.0 - 100.0 / (1 + avg_g / avg_l) if avg_l > 0 else 100.0)
+    for i in range(period, len(deltas)):
+        avg_g = (avg_g * (period - 1) + gains[i]) / period
+        avg_l = (avg_l * (period - 1) + losses[i]) / period
+        rsi.append(100.0 - 100.0 / (1 + avg_g / avg_l) if avg_l > 0 else 100.0)
+    return rsi
+
+DEFAULT_TRIPLE_SCREEN_PARAMS = {
+    "rsi_period": 14, "rsi_oversold": 35, "rsi_overbought": 65,
+    "macd_fast": 12, "macd_slow": 26, "macd_signal": 9,
+    "min_bars": 50, "top_n": 15,
+}
+
 # ── Momentum Rotation Strategy ───────────────────────────────────
 
 def run_triple_screen(

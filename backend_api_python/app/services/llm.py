@@ -254,7 +254,7 @@ class LLMService:
             raise requests.exceptions.ConnectionError(f"{msg}{hint}") from exc
 
         if stream:
-            response._ai-trader_llm_session = session
+            response._llm_session = session
         else:
             session.close()
         return response
@@ -456,7 +456,7 @@ class LLMService:
                 err_text = err.get("message") if isinstance(err, dict) else str(err or "")
             except Exception:
                 err_text = (response.text or "").strip()[:300]
-            session = getattr(response, "_ai-trader_llm_session", None)
+            session = getattr(response, "_llm_session", None)
             response.close()
             if session is not None:
                 session.close()
@@ -486,7 +486,7 @@ class LLMService:
                 if content:
                     yield content
         finally:
-            session = getattr(response, "_ai-trader_llm_session", None)
+            session = getattr(response, "_llm_session", None)
             response.close()
             if session is not None:
                 session.close()
